@@ -1,16 +1,119 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**huyvinh005/huyvinh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/Hello%2C%20huyvinh005-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-Here are some ideas to get you started:
+  <h1>🌌 Welcome to my profile!</h1>
+  <h3>Backend Developer | Tech Enthusiast | Open to Collaboration</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=huyvinh005&color=F700FF" alt="Profile Views" />
+  </p>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+
+* 🎯 Current Focus: Building AI-driven applications, specifically focusing on LLMs, RAG, and Transformers with Python.
+* 📚 Learning Next: Integrating Computer Vision (OpenCV) and optimizing DataOps pipelines (LangChain, Docker).
+* 🤝 Collaborations: Open to discussions on Natural Language Processing (NLP), Computer Vision (OpenCV), Information Extraction, and Algorithm optimization.
+
+<br>
+
+### 📧 Connect with Me
+<div align="center">
+  <a href="https://github.com/huyvinh005">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:vinhqktkvn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/v%C5%A9-kh%E1%BA%AFc-huy-vinh-b7228a2bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
+---
+
+### 🚀 Tech Universe
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP Badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+### 🔧 My Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,pycharm,vscode,linux,django,nextjs,mysql,sqlite,mongodb,spring,git,github,sublime,docker&perline=8" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+</div>
+
+---
+
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyvinh005&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### 📈 GitHub Analytics & Streak
+
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=huyvinh005&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+  </a>
+  
+  <br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huyvinh005&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyvinh005&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+
+  <br>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=huyvinh005&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Fun Fact: Commit Snake
+<div align="center">
+  <img src="https://github.com/huyvinh005/huyvinh005/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
